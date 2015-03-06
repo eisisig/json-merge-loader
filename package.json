@@ -1,0 +1,33 @@
+{
+  "name": "json-merge-loader",
+  "version": "1.0.0",
+  "author": {
+    "name": "Eisi Sig @eisisig"
+  },
+  "main": "index.js",
+  "description": "config loader module for webpack that merges configs",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "scripts": {},
+  "_npmUser": {
+    "name": "eisisig",
+    "email": "im.eisisig@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "Eisi Sig",
+      "email": "im.eisisig@gmail.com"
+    }
+  ],
+  "directories": {},
+  "readme": "ERROR: No README data found!",
+  "dependencies": {
+    "glob": "^5.0.0",
+    "loader-utils": "^0.2.6",
+    "lodash": "^3.3.1"
+  }
+}
