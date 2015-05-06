@@ -26,9 +26,9 @@
   "directories": {},
   "readme": "ERROR: No README data found!",
   "dependencies": {
-    "glob": "^5.0.0",
+    "glob": "^5.0.5",
     "json5": "^0.4.0",
-    "loader-utils": "^0.2.6",
-    "lodash": "^3.3.1"
+    "loader-utils": "^0.2.7",
+    "lodash": "^3.8.0"
   }
 }
